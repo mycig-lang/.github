@@ -6,7 +6,7 @@
 
 ---
 
-Until I self-host Mycig, I plan to use F#.
+Until I self-host Rectol, I plan to use F#.
 
 All of Rectol is developped by me, [devtolog](https://github.com/devtolog).
 So it will take to develop for a long time.
